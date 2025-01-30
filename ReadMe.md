@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on Encryption/Decryption, Network tools, and General Python<br>🤝 I’m looking for help with debugging, error codes, encryption/decryption<br>🌱 I’m currently learning python, html<br>💬 Ask me about my tools!<br>⚡ Fun fact; I am not liable for any damage :)
+🔭 Currently working on Encryption/Decryption, Network tools, and General Python<br>🤝 I’m looking for help with debugging, error codes, encryption/decryption<br>🌱 I’m currently learning python, html<br>💬 Ask me about my tools!<br>⚡ Fun fact; I love YAKARY
 
 
 ## 🌐 Socials:
